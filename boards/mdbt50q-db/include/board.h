@@ -7,7 +7,7 @@
  */
 
 /**
- * @ingroup     boards_nrf52840dk
+ * @ingroup     boards_mdbt50q-db
  * @{
  *
  * @file
@@ -77,6 +77,8 @@ extern "C" {
  * @name    UART board-specific configuration extending periph_conf.h
  * @{
  */
+/* TODO: PV 28.12.2018 Consider adding this to the original nrf52840DK board, and mention the raytac there as well, remove raytac completely */
+#define UART_HWFLOWCTRL		(1)
 #define UART_PIN_CTS        GPIO_PIN(0,7)
 #define UART_PIN_RTS        GPIO_PIN(0,5)
 /** @} */
