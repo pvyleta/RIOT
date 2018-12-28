@@ -37,6 +37,8 @@ extern "C" {
 #define UART_NUMOF          (1U)
 #define UART_PIN_RX         GPIO_PIN(0,8)
 #define UART_PIN_TX         GPIO_PIN(0,6)
+#define UART_PIN_CTS        GPIO_PIN(0,7)
+#define UART_PIN_RTS        GPIO_PIN(0,5)
 /** @} */
 
 /**

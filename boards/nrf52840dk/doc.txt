@@ -13,4 +13,7 @@ this, RIOT provides a little tool in `dist/tools/nrf52_resetpin_cfg`.
 Simply compile, flash, and run that tool on your board, and the reset pin should
 work for the time being.
 
+Note: This definition is perfectly useable for the Raytac MDBT50Q-DB development
+board as well, as it features the same pin-out for LEDs, buttons and UART.
+
  */
