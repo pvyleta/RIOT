@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2018 Petr Vyleta <vyleta.spam@gmail.com>
+ * Copyright (C) 2018 Petr Vyleta <vyleta.developer@gmail.com>
  *
  * This file is subject to the terms and conditions of the GNU Lesser
  * General Public License v2.1. See the file LICENSE in the top level
@@ -13,7 +13,7 @@
  * @file        u8x8_riotos.h
  * @brief       U8g2 driver for interacting with RIOT-OS drivers
  *
- * @author      Petr Vyleta <vyleta.spam@gmail.com>
+ * @author      Petr Vyleta <vyleta.developer@gmail.com>
  *
  * @}
  */
